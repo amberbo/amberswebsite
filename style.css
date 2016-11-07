@@ -1,0 +1,13 @@
+* {
+font-family: 'Muro', 'Times', serif;
+}
+
+a {
+color: #4e5151;
+text-decoration: none;
+font-weight: lighter;
+}
+
+img {
+border-radius: 100%;
+}
